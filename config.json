@@ -1,0 +1,8 @@
+{
+    "my_like": "http://tieba.baidu.com/f/like/mylike",
+    "sign": "http://tieba.baidu.com/sign/add",
+    "header": ".\\headers.json",
+    "tieba_list": ".\\tieba_list.json",
+    "logs": ".\\logs.txt",
+    "delay_s": 1
+}
